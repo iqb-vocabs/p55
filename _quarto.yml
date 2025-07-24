@@ -7,14 +7,14 @@ website:
   page-navigation: true
   repo-url: https://github.com/iqb-vocabs/p55/
   navbar:
-    logo: iqb-logo-red.png
+    logo: iqb-logo-black.png
     search: true
     left:
       - href: index.qmd
         text: "Metadatenprofile für Testaufgaben: Französisch Sek I 2003/2004"
     right:
       - icon: github
-        href: https://github.com/iqb-vocabs/p52
+        href: https://github.com/iqb-vocabs/p55
         aria-label: Source Code
 
 
